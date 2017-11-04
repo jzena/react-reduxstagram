@@ -1,11 +1,19 @@
 {
-  "name": "learn-redux",
+  "name": "react-reduxstagram",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "react-scripts": "1.0.14"
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-dom": "^15.6.1",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.4.0",
+    "react-router-redux": "^4.0.4",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.10"
   },
   "scripts": {
     "start": "react-scripts start",
